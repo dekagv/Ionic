@@ -1,1 +1,1 @@
-Todo el codigo contenido en estos proyectos son ejemplos de un curso sobre ionic
+Todo el codigo contenido en este proyecto son ejemplos de un curso sobre ionic
